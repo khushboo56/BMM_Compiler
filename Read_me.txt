@@ -35,7 +35,7 @@ Input - There is two sample files in the folder. Copy it and paste it in input.t
 Output - If there is any error , it will appear on console with some messages like Invalid character or synatx error.
          Otherwise , "code is valid" will be written.
 
-( This may not show complex errors . But we have tried to write scanner and parser for all the instructions written in the module.)
+
 
 Team_Members:
 
